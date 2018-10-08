@@ -1,6 +1,10 @@
 #include<iostream>
 int main()
 {
+
 cout<<"hello world";
+
+cout" knibilb";
+
 return 0;}
 
